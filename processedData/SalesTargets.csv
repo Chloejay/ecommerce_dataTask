@@ -1,0 +1,145 @@
+Month of Order Date,Category,Target
+2011-01-01,Furniture,10000
+2011-02-01,Furniture,10100
+2011-03-01,Furniture,10300
+2011-04-01,Furniture,10400
+2011-05-01,Furniture,10500
+2011-06-01,Furniture,10600
+2011-07-01,Furniture,10800
+2011-08-01,Furniture,10900
+2011-09-01,Furniture,11000
+2011-10-01,Furniture,11100
+2011-11-01,Furniture,11300
+2011-12-01,Furniture,11400
+2012-01-01,Furniture,11500
+2012-02-01,Furniture,11600
+2012-03-01,Furniture,11800
+2012-04-01,Furniture,11900
+2012-05-01,Furniture,12000
+2012-06-01,Furniture,12100
+2012-07-01,Furniture,12300
+2012-08-01,Furniture,12400
+2012-09-01,Furniture,12500
+2012-10-01,Furniture,12600
+2012-11-01,Furniture,12800
+2012-12-01,Furniture,12900
+2013-01-01,Furniture,13000
+2013-02-01,Furniture,13100
+2013-03-01,Furniture,13300
+2013-04-01,Furniture,13400
+2013-05-01,Furniture,13500
+2013-06-01,Furniture,13600
+2013-07-01,Furniture,13800
+2013-08-01,Furniture,13900
+2013-09-01,Furniture,14000
+2013-10-01,Furniture,14100
+2013-11-01,Furniture,14300
+2013-12-01,Furniture,14400
+2014-01-01,Furniture,14500
+2014-02-01,Furniture,14600
+2014-03-01,Furniture,14800
+2014-04-01,Furniture,14900
+2014-05-01,Furniture,15000
+2014-06-01,Furniture,15100
+2014-07-01,Furniture,15300
+2014-08-01,Furniture,15400
+2014-09-01,Furniture,15500
+2014-10-01,Furniture,15600
+2014-11-01,Furniture,15800
+2014-12-01,Furniture,15900
+2011-01-01,Office Supplies,5000
+2011-02-01,Office Supplies,5000
+2011-03-01,Office Supplies,5000
+2011-04-01,Office Supplies,10000
+2011-05-01,Office Supplies,10000
+2011-06-01,Office Supplies,10000
+2011-07-01,Office Supplies,12000
+2011-08-01,Office Supplies,12000
+2011-09-01,Office Supplies,12000
+2011-10-01,Office Supplies,14000
+2011-11-01,Office Supplies,14000
+2011-12-01,Office Supplies,14000
+2012-01-01,Office Supplies,10000
+2012-02-01,Office Supplies,10000
+2012-03-01,Office Supplies,10000
+2012-04-01,Office Supplies,12000
+2012-05-01,Office Supplies,12000
+2012-06-01,Office Supplies,12000
+2012-07-01,Office Supplies,14000
+2012-08-01,Office Supplies,14000
+2012-09-01,Office Supplies,14000
+2012-10-01,Office Supplies,16000
+2012-11-01,Office Supplies,16000
+2012-12-01,Office Supplies,16000
+2013-01-01,Office Supplies,16000
+2013-02-01,Office Supplies,16000
+2013-03-01,Office Supplies,16000
+2013-04-01,Office Supplies,10000
+2013-05-01,Office Supplies,10000
+2013-06-01,Office Supplies,10000
+2013-07-01,Office Supplies,18000
+2013-08-01,Office Supplies,18000
+2013-09-01,Office Supplies,18000
+2013-10-01,Office Supplies,20000
+2013-11-01,Office Supplies,20000
+2013-12-01,Office Supplies,20000
+2014-01-01,Office Supplies,12000
+2014-02-01,Office Supplies,12000
+2014-03-01,Office Supplies,12000
+2014-04-01,Office Supplies,16000
+2014-05-01,Office Supplies,16000
+2014-06-01,Office Supplies,16000
+2014-07-01,Office Supplies,18000
+2014-08-01,Office Supplies,18000
+2014-09-01,Office Supplies,18000
+2014-10-01,Office Supplies,26000
+2014-11-01,Office Supplies,26000
+2014-12-01,Office Supplies,26000
+2011-01-01,Technology,9000
+2011-02-01,Technology,9000
+2011-03-01,Technology,9000
+2011-04-01,Technology,9000
+2011-05-01,Technology,9000
+2011-06-01,Technology,9000
+2011-07-01,Technology,9000
+2011-08-01,Technology,9000
+2011-09-01,Technology,9000
+2011-10-01,Technology,9000
+2011-11-01,Technology,9000
+2011-12-01,Technology,9000
+2012-01-01,Technology,16000
+2012-02-01,Technology,16000
+2012-03-01,Technology,16000
+2012-04-01,Technology,16000
+2012-05-01,Technology,16000
+2012-06-01,Technology,16000
+2012-07-01,Technology,16000
+2012-08-01,Technology,16000
+2012-09-01,Technology,16000
+2012-10-01,Technology,16000
+2012-11-01,Technology,16000
+2012-12-01,Technology,16000
+2013-01-01,Technology,20000
+2013-02-01,Technology,20000
+2013-03-01,Technology,20000
+2013-04-01,Technology,20000
+2013-05-01,Technology,20000
+2013-06-01,Technology,20000
+2013-07-01,Technology,20000
+2013-08-01,Technology,20000
+2013-09-01,Technology,20000
+2013-10-01,Technology,20000
+2013-11-01,Technology,20000
+2013-12-01,Technology,20000
+2014-01-01,Technology,23000
+2014-02-01,Technology,23000
+2014-03-01,Technology,23000
+2014-04-01,Technology,23000
+2014-05-01,Technology,23000
+2014-06-01,Technology,23000
+2014-07-01,Technology,23000
+2014-08-01,Technology,23000
+2014-09-01,Technology,23000
+2014-10-01,Technology,23000
+2014-11-01,Technology,23000
+2014-12-01,Technology,23000

@@ -1,0 +1,145 @@
+Order Month,Category,Target,Sales,Profit,Target_achieved
+2011-01,Furniture,10000,5477,-589,Not Achieved
+2011-02,Furniture,10100,13541,698,Achieved
+2011-03,Furniture,10300,7210,1209,Not Achieved
+2011-04,Furniture,10400,4115,1058,Not Achieved
+2011-05,Furniture,10500,8653,-760,Not Achieved
+2011-06,Furniture,10600,14737,2330,Achieved
+2011-07,Furniture,10800,2282,32,Not Achieved
+2011-08,Furniture,10900,10606,154,Not Achieved
+2011-09,Furniture,11000,13763,3316,Achieved
+2011-10,Furniture,11100,4084,990,Not Achieved
+2011-11,Furniture,11300,15194,1588,Achieved
+2011-12,Furniture,11400,23611,3293,Achieved
+2012-01,Furniture,11500,5525,-525,Not Achieved
+2012-02,Furniture,11600,5820,1855,Not Achieved
+2012-03,Furniture,11800,9496,-1315,Not Achieved
+2012-04,Furniture,11900,5447,-53,Not Achieved
+2012-05,Furniture,12000,8019,-1579,Not Achieved
+2012-06,Furniture,12100,21661,2986,Achieved
+2012-07,Furniture,12300,7525,1258,Not Achieved
+2012-08,Furniture,12400,21300,3449,Achieved
+2012-09,Furniture,12500,20161,912,Achieved
+2012-10,Furniture,12600,14923,1400,Achieved
+2012-11,Furniture,12800,15100,-1713,Achieved
+2012-12,Furniture,12900,13979,1195,Achieved
+2013-01,Furniture,13000,10085,1852,Not Achieved
+2013-02,Furniture,13100,11749,1753,Not Achieved
+2013-03,Furniture,13300,10018,-1946,Not Achieved
+2013-04,Furniture,13400,5729,827,Not Achieved
+2013-05,Furniture,13500,8767,-467,Not Achieved
+2013-06,Furniture,13600,21226,1977,Achieved
+2013-07,Furniture,13800,11147,922,Not Achieved
+2013-08,Furniture,13900,19006,-61,Achieved
+2013-09,Furniture,14000,20610,2450,Achieved
+2013-10,Furniture,14100,5141,994,Not Achieved
+2013-11,Furniture,14300,25195,4884,Achieved
+2013-12,Furniture,14400,17084,699,Achieved
+2014-01,Furniture,14500,9325,890,Not Achieved
+2014-02,Furniture,14600,8586,-1392,Not Achieved
+2014-03,Furniture,14800,6813,1583,Not Achieved
+2014-04,Furniture,14900,15165,2546,Achieved
+2014-05,Furniture,15000,7298,10,Not Achieved
+2014-06,Furniture,15100,27489,-910,Achieved
+2014-07,Furniture,15300,13418,-41,Not Achieved
+2014-08,Furniture,15400,24606,1725,Achieved
+2014-09,Furniture,15500,35226,5063,Achieved
+2014-10,Furniture,15600,5421,608,Not Achieved
+2014-11,Furniture,15800,28633,2191,Achieved
+2014-12,Furniture,15900,18843,2388,Achieved
+2011-01,Office Supplies,5000,5730,628,Achieved
+2011-02,Office Supplies,5000,3460,155,Not Achieved
+2011-03,Office Supplies,5000,9820,2567,Achieved
+2011-04,Office Supplies,10000,10069,1959,Achieved
+2011-05,Office Supplies,10000,12062,653,Achieved
+2011-06,Office Supplies,10000,17124,2470,Achieved
+2011-07,Office Supplies,12000,4648,721,Not Achieved
+2011-08,Office Supplies,12000,14215,2025,Achieved
+2011-09,Office Supplies,12000,28848,5964,Achieved
+2011-10,Office Supplies,14000,6555,431,Not Achieved
+2011-11,Office Supplies,14000,16852,2161,Achieved
+2011-12,Office Supplies,14000,18651,1720,Achieved
+2012-01,Office Supplies,10000,14861,1586,Achieved
+2012-02,Office Supplies,10000,4157,761,Not Achieved
+2012-03,Office Supplies,10000,14731,2408,Achieved
+2012-04,Office Supplies,12000,10109,879,Not Achieved
+2012-05,Office Supplies,12000,12318,2668,Achieved
+2012-06,Office Supplies,12000,13577,2640,Achieved
+2012-07,Office Supplies,14000,15670,2666,Achieved
+2012-08,Office Supplies,14000,29234,5925,Achieved
+2012-09,Office Supplies,14000,17077,2437,Achieved
+2012-10,Office Supplies,16000,9602,1757,Not Achieved
+2012-11,Office Supplies,16000,21578,2371,Achieved
+2012-12,Office Supplies,16000,26976,5710,Achieved
+2013-01,Office Supplies,16000,23964,4319,Achieved
+2013-02,Office Supplies,16000,19007,4109,Achieved
+2013-03,Office Supplies,16000,12959,2924,Not Achieved
+2013-04,Office Supplies,10000,10746,2171,Achieved
+2013-05,Office Supplies,10000,11820,1773,Achieved
+2013-06,Office Supplies,10000,25325,328,Achieved
+2013-07,Office Supplies,18000,17275,4845,Not Achieved
+2013-08,Office Supplies,18000,23169,2654,Achieved
+2013-09,Office Supplies,18000,24790,2726,Achieved
+2013-10,Office Supplies,20000,5939,955,Not Achieved
+2013-11,Office Supplies,20000,30662,4103,Achieved
+2013-12,Office Supplies,20000,22860,4638,Achieved
+2014-01,Office Supplies,12000,15637,2546,Achieved
+2014-02,Office Supplies,12000,15107,2674,Achieved
+2014-03,Office Supplies,12000,12030,1090,Achieved
+2014-04,Office Supplies,16000,16383,1845,Achieved
+2014-05,Office Supplies,16000,18289,3229,Achieved
+2014-06,Office Supplies,16000,22941,4200,Achieved
+2014-07,Office Supplies,18000,11918,1809,Not Achieved
+2014-08,Office Supplies,18000,36979,4622,Achieved
+2014-09,Office Supplies,18000,30166,4148,Achieved
+2014-10,Office Supplies,26000,14330,3381,Not Achieved
+2014-11,Office Supplies,26000,33305,4090,Achieved
+2014-12,Office Supplies,26000,30133,2511,Achieved
+2011-01,Technology,9000,3128,210,Not Achieved
+2011-02,Technology,9000,4645,-53,Not Achieved
+2011-03,Technology,9000,3537,266,Not Achieved
+2011-04,Technology,9000,7736,340,Not Achieved
+2011-05,Technology,9000,8240,1696,Not Achieved
+2011-06,Technology,9000,16976,1145,Achieved
+2011-07,Technology,9000,9705,1307,Achieved
+2011-08,Technology,9000,23001,3993,Achieved
+2011-09,Technology,9000,19844,2646,Achieved
+2011-10,Technology,9000,5031,497,Not Achieved
+2011-11,Technology,9000,20521,3450,Achieved
+2011-12,Technology,9000,20677,4217,Achieved
+2012-01,Technology,16000,9636,1010,Not Achieved
+2012-02,Technology,16000,5327,1594,Not Achieved
+2012-03,Technology,16000,17161,1351,Achieved
+2012-04,Technology,16000,15215,182,Not Achieved
+2012-05,Technology,16000,14022,3995,Not Achieved
+2012-06,Technology,16000,19522,4070,Achieved
+2012-07,Technology,16000,15150,2762,Not Achieved
+2012-08,Technology,16000,34577,6265,Achieved
+2012-09,Technology,16000,24539,1543,Achieved
+2012-10,Technology,16000,11161,1717,Not Achieved
+2012-11,Technology,16000,18401,609,Achieved
+2012-12,Technology,16000,25323,1447,Achieved
+2013-01,Technology,20000,11649,1332,Not Achieved
+2013-02,Technology,20000,16395,1536,Not Achieved
+2013-03,Technology,20000,5899,1184,Not Achieved
+2013-04,Technology,20000,14152,1484,Not Achieved
+2013-05,Technology,20000,20673,2546,Achieved
+2013-06,Technology,20000,40355,6033,Achieved
+2013-07,Technology,20000,20298,126,Achieved
+2013-08,Technology,20000,20949,3661,Achieved
+2013-09,Technology,20000,24332,2007,Achieved
+2013-10,Technology,20000,18858,3237,Not Achieved
+2013-11,Technology,20000,21889,2643,Achieved
+2013-12,Technology,20000,20502,1982,Achieved
+2014-01,Technology,23000,24140,4248,Achieved
+2014-02,Technology,23000,15891,792,Not Achieved
+2014-03,Technology,23000,13201,1609,Not Achieved
+2014-04,Technology,23000,17185,2766,Not Achieved
+2014-05,Technology,23000,12300,2407,Not Achieved
+2014-06,Technology,23000,30895,4528,Achieved
+2014-07,Technology,23000,17123,287,Not Achieved
+2014-08,Technology,23000,45484,4074,Achieved
+2014-09,Technology,23000,35933,4211,Achieved
+2014-10,Technology,23000,20816,3143,Not Achieved
+2014-11,Technology,23000,29909,2156,Achieved
+2014-12,Technology,23000,34112,4303,Achieved

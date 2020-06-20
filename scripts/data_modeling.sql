@@ -29,6 +29,7 @@ CREATE OR REPLACE TABLE `products` (
     `Sub-Category` varchar(30)
 );
 
+tiny relational tables set up and run! connect datbase table is quite useful. 
 -- Get Sales target and actual Sales table
 
 -- most purchased product => best selling product 
